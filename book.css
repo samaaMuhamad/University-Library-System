@@ -1,0 +1,63 @@
+
+         body {
+        background-image: url('row-of-books-in-shelf-256541.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+        font-family: sans-serif;
+    }
+    
+    table {
+        border: 0px solid rgb(230, 213, 192);
+        border-collapse: collapse;
+        width: 450px;
+        background-color: rgb(230, 213, 192);
+        border-radius: 30px;
+        align-content: center;
+        padding: 1px;
+        margin-top: 100px;
+    }
+    
+    .allInputs {
+        border: 2px solid brown;
+        border-radius: 7px;
+        width: 250px;
+        padding: 10px;
+        font-size: 18px;
+        margin: 10px;
+    }
+    
+    .d12 {
+        border-radius: 10px;
+        text-align: center;
+        font-size: 18px;
+        width: 200px;
+        background-color: rgb(255, 255, 255);
+        color: rgb(0, 0, 0);
+        margin: 20px;
+        padding: 10px;
+        border: 2px solid brown;
+    }
+    
+    .d11 {
+        border-radius: 10px;
+        text-align: center;
+        font-size: 18px;
+        width: 200px;
+        background-color: brown;
+        color: white;
+        margin: 20px;
+        padding: 10px;
+        border: 1px solid brown;
+    }
+    
+    .d12:hover {
+        background-color: rgb(128,0,0);
+    }
+    
+    .txt {
+        font-size: 25px;
+        color: brown;
+        font-weight: 700;
+    }
+
